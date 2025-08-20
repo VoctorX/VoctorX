@@ -25,7 +25,6 @@ Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. 
 
 - Python
 - POO
-- Seguridad en aplicaciones web
 
 ---
 
@@ -45,13 +44,14 @@ Puedes escribirme directamente por GitHub o conectarte conmigo en redes:
 
 ---
 
-### ⚡Final
-
-Aunque mi nombre es Victor Cordoba, algunos me conocen como **VoctorX**😄
-
----
+### ⚡Etiquetas
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 > _"El código es poesía, y cada línea cuenta una historia."_  
