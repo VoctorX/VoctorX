@@ -1,7 +1,7 @@
 ## ¡Hola! 👋 Soy VICTOR MANUEL CORDOBA LAREZ
 
-🎓 Estudiante unilasallista en Colombia, actualmente cursando segundo semestre.  
-💻 Técnico en Programación de Software con pasión por el desarrollo web.  
+🎓 Estudiante Unilasallista en Colombia, actualmente cursando segundo semestre.  
+💻 Técnico en Programación de Software, gradudado en el SENA.  
 🌐 Especializado en tecnologías como **PHP**, **SQL**, **HTML** y **CSS**.
 
 ---
@@ -23,15 +23,15 @@ Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. 
 
 ### 📚 Actualmente aprendiendo
 
-- JavaScript y frameworks modernos
-- Principios de diseño responsivo
+- Python
+- POO
 - Seguridad en aplicaciones web
 
 ---
 
 ### 🤝 Buscando colaborar en...
 
-- Proyectos web con enfoque educativo o social
+- Proyectos web con enfoque educativo o social (e-commerce)
 - Aplicaciones PHP con bases de datos
 - Repositorios que necesiten estructura y documentación
 
@@ -39,14 +39,19 @@ Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. 
 
 ### 📫 Cómo contactarme
 
-Puedes escribirme directamente por GitHub o conectarte conmigo en redes (próximamente añadiré enlaces aquí).
+Puedes escribirme directamente por GitHub o conectarte conmigo en redes:
+- cordobavictorml@gmail.com
+- +57 3506037128
 
 ---
 
-### ⚡ Dato curioso
+### ⚡Final
 
-Aunque mi nombre es VICTOR, algunos me conocen como **VoctorX**... ¡una mezcla entre código y personalidad! 😄
+Aunque mi nombre es Victor Cordoba, algunos me conocen como **VoctorX**😄
 
 ---
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 > _"El código es poesía, y cada línea cuenta una historia."_  
