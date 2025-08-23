@@ -1,4 +1,4 @@
-## 👋 Soy Victor Cordoba
+## 👨‍💻 Victor Cordoba | Ingeniero Informatico en formación
 
 💻 Técnico en Programación de Software, gradudado en el SENA. 
 🌐 Especializado en lenguajes como **PHP**, **SQL**, **HTML5** y **CSS**.
