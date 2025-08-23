@@ -1,8 +1,8 @@
 ## 👨‍💻 Victor Cordoba | Ingeniero Informatico en formación
 
-💻 Técnico en Programación de Software, gradudado en el SENA. 
+💻 Técnico en Programación de Software, graduado en el SENA. 
 🌐 Especializado en lenguajes como **PHP**, **SQL**, **HTML5** y **CSS**.
-🎓 Estudiante de Ingeniería Informática en Unilasallista, acutalmente cursando segundo semestre.
+🎓 Estudiante de Ingeniería Informática en Unilasallista, actualmente cursando segundo semestre.
 
 ---
 
@@ -19,6 +19,10 @@ Soy un desarrollador en formación con interés en construir soluciones escalabl
 - Herramientas: Git, GitHub, VS Code
 
 ---
+
+### 📌 Proyectos destacados  
+- [Carrito de compras en PHP y MySQL](#)  
+- [Sistema de gestión de inventario](#)  
 
 ### 📚 Actualmente aprendiendo
 
