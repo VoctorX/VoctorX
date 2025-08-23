@@ -1,14 +1,14 @@
 ## 👋 Soy Victor Cordoba
 
-💻 Técnico en Programación de Software (gradudado en el SENA).  
+💻 Técnico en Programación de Software, gradudado en el SENA. 
 🌐 Especializado en lenguajes como **PHP**, **SQL**, **HTML5** y **CSS**.
-🎓 Estudiante Unilasallista, actualmente cursando segundo semestre como Ingeniero Informatico .  
+🎓 Estudiante de Ingeniería Informática en Unilasallista, acutalmente cursando segundo semestre.
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. Me encanta construir soluciones funcionales y elegantes que resuelvan problemas reales. Mi enfoque está en el backend, pero también disfruto trabajar con interfaces limpias y bien estructuradas.
+Soy un desarrollador en formación con interés en construir soluciones escalables y orientadas a resolver necesidades reales. Tengo un enfoque principal en backend. Mi objetivo es seguir creciendo en el campo de la ingeniería informática y aplicar mis conocimientos en proyectos que generen impacto.
 
 ---
 
@@ -17,27 +17,26 @@ Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. 
 - Lenguajes: `PHP`, `SQL`, `HTML`, `CSS`
 - Bases de datos: MySQL
 - Herramientas: Git, GitHub, VS Code
-- Metodologías: Desarrollo estructurado y buenas prácticas de programación
 
 ---
 
 ### 📚 Actualmente aprendiendo
 
 - Python
-- POO
+- Programación orientada a objetos (POO)
 
 ---
 
 ### 🤝 Buscando colaborar en...
 
-- Proyectos web con enfoque e-commerce.
-- Aplicaciones PHP con bases de datos.
+- Proyectos web con enfoque en e-commerce.
+- Aplicaciones PHP con gestión de bases de datos.
 
 ---
 
 ### 📫 Cómo contactarme
 
-Puedes escribirme directamente por GitHub o conectarte conmigo en redes:
+Puedes conectarte conmigo en redes:
 - cordobavictorml@gmail.com
 - +57 3506037128
 
@@ -52,5 +51,3 @@ Puedes escribirme directamente por GitHub o conectarte conmigo en redes:
 ![CSS3](https://img.shields.io/badge/CSS3-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-> _"El código es poesía, y cada línea cuenta una historia."_  
