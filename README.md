@@ -1,8 +1,8 @@
-## ¡Hola! 👋 Soy VICTOR MANUEL CORDOBA LAREZ
+## 👋 Soy Victor Cordoba
 
-🎓 Estudiante Unilasallista en Colombia, actualmente cursando segundo semestre.  
-💻 Técnico en Programación de Software, gradudado en el SENA.  
-🌐 Especializado en tecnologías como **PHP**, **SQL**, **HTML** y **CSS**.
+💻 Técnico en Programación de Software (gradudado en el SENA).  
+🌐 Especializado en lenguajes como **PHP**, **SQL**, **HTML5** y **CSS**.
+🎓 Estudiante Unilasallista, actualmente cursando segundo semestre como Ingeniero Informatico .  
 
 ---
 
@@ -30,9 +30,8 @@ Soy un entusiasta del código, siempre en busca de nuevos retos y aprendizajes. 
 
 ### 🤝 Buscando colaborar en...
 
-- Proyectos web con enfoque educativo o social (e-commerce)
-- Aplicaciones PHP con bases de datos
-- Repositorios que necesiten estructura y documentación
+- Proyectos web con enfoque e-commerce.
+- Aplicaciones PHP con bases de datos.
 
 ---
 
