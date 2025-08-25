@@ -21,8 +21,13 @@ Soy un desarrollador en formación con interés en construir soluciones escalabl
 ---
 
 ### 📌 Proyectos destacados  
-- [Carrito de compras en PHP y MySQL](#)  
-- [Sistema de gestión de inventario](#)  
+- [**Kongelados**](https://github.com/VoctorX/tienda)
+  Tienda tipo e-commerce con catálogo, carrito de compras y sistema de ventas en línea.   
+  Tecnologías: PHP, MySQL, HTML, CSS.  
+
+- [**Licorera23**](https://github.com/VoctorX/licorera23)  
+  Sistema de gestión de inventario enfocado en control de entradas y salidas de productos.
+  Tecnologías: PHP, MySQL, HTML, CSS, Boostrap.  
 
 ### 📚 Actualmente aprendiendo
 
